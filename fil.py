@@ -11,3 +11,5 @@ def rev(s):
 def number(s):
     return[s]
                                        
+def hello:
+    return 'hello world'
