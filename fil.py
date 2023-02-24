@@ -5,4 +5,9 @@ def search(x, a: list[int]):
          
 
 def rev(s):
-    return s[::-1]         
+    return s[::-1]
+             
+             
+def number(s):
+    return[s]
+                                       
